@@ -1,17 +1,15 @@
 import numpy as np
 
-
 # ----- ASSUME -------
 # 1. pyhon - comfortable
 # 2. NN - understanding 
-
-# ---- CONSTANT LEARNING RATE -------
 
 # ------ NETWORK ARCH ----
 # 1. Epoch 100
 # 2. LR = 1
 # 3. SGD - BATCH 
 # 4. Loss - MSE with added 1/2
+
 
 # Generate Same Random Numbers Every Time
 np.random.seed(1)
@@ -32,15 +30,15 @@ x = np.array([
 
 y = np.array([
     [0],
-    [0],
-    [0],
+    [1],
+    [1],
     [1]
 ])
 
 # 0.5 Declare Hyper Parameter
 w1 = np.random.randn(3,1)
-numer_of_epoch = 100
-learning_rate = 1
+numer_of_epoch =60
+learning_rate = 10
 
 # 1. Make the Opertions
 for iter in range(numer_of_epoch):
@@ -52,7 +50,7 @@ for iter in range(numer_of_epoch):
     # loss function - MSE 0.5
     loss = np.square(layer_1_act - y) / (len(layer_1_act)  * 2)
 
-    print "Current Epoch : ",iter ," current loss :", loss.sum()
+    print "Current Epoch : ",iter ," current loss :", loss.sum()," Current Learning Rate: ",learning_rate
 
     # SGD - BATCH
     grad_1_part_1 = (layer_1_act - y) / len(layer_1_act)
@@ -62,6 +60,9 @@ for iter in range(numer_of_epoch):
 
     # Weight Update
     w1 -=  learning_rate * grad_1
+
+    if iter == 30 :
+        learning_rate = 0.01
 
 layer_1 = x.dot(w1)
 layer_1_act = sigmoid(layer_1)

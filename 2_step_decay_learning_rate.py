@@ -37,7 +37,7 @@ y = np.array([
 
 # 0.5 Declare Hyper Parameter
 w1 = np.random.randn(3,1)
-numer_of_epoch =60
+numer_of_epoch =100
 learning_rate = 10
 
 # 1. Make the Opertions
@@ -50,7 +50,7 @@ for iter in range(numer_of_epoch):
     # loss function - MSE 0.5
     loss = np.square(layer_1_act - y) / (len(layer_1_act)  * 2)
 
-    print "Current Epoch : ",iter ," current loss :", loss.sum()," Current Learning Rate: ",learning_rate
+    print "Current Epoch : ",iter ," Current Accuracy : ",1- loss.sum()," current loss :", loss.sum()," Current Learning Rate: ",learning_rate
 
     # SGD - BATCH
     grad_1_part_1 = (layer_1_act - y) / len(layer_1_act)
@@ -60,9 +60,11 @@ for iter in range(numer_of_epoch):
 
     # Weight Update
     w1 -=  learning_rate * grad_1
-
-    if iter == 30 :
-        learning_rate = 0.01
+    
+    if iter == 50 :
+        learning_rate = 1
+    if iter == 70 :
+        learning_rate = 0.1
 
 layer_1 = x.dot(w1)
 layer_1_act = sigmoid(layer_1)

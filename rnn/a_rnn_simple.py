@@ -15,14 +15,18 @@ y = np.array([
     [3]
 ])
 
+# 1.3 Starting Weights - however - 
+# the best set of weights would be wx = 1 and wrec = 1
 wx = [0.2]
 wrec = [1.5]
 
-number_or_epoch = 100
+# Hyper Par
+number_or_epoch = 30000
 number_of_training_data = 3
 learning_rate_x = 0.02
 learning_rate_rec = 0.0006
 
+# np array
 states = np.zeros((3,4))
 grad_over_time = np.zeros((3,4))
 
@@ -38,7 +42,7 @@ for iter in range(number_or_epoch):
 
     layer_3 = x[:,2] * wx + states[:,2] * wrec
     states[:,3] = layer_3
-
+ 
     cost = np.square(states[:,3] - y).sum() / number_of_training_data
 
     grad_out = (states[:,3] - np.squeeze(y)) * 2 / number_of_training_data
@@ -49,13 +53,20 @@ for iter in range(number_or_epoch):
     # NOTE: Do Not really need grad_over_time[:,0]
     grad_over_time[:,0] = grad_over_time[:,1] * wrec
 
-    grad_wx = np.sum(grad_over_time[:,3] * x[:,2] + grad_over_time[:,2] * x[:,1]  + grad_over_time[:,1] * x[:,0])
-    grad_rec = np.sum(grad_over_time[:,3] * states[:,2] + grad_over_time[:,2] * states[:,1]  + grad_over_time[:,1] * states[:,0])
+    # 
+    grad_wx = np.sum(grad_over_time[:,3] * x[:,2] + 
+                     grad_over_time[:,2] * x[:,1]  + 
+                     grad_over_time[:,1] * x[:,0])
+
+    grad_rec = np.sum(grad_over_time[:,3] * states[:,2] + 
+                      grad_over_time[:,2] * states[:,1]  + 
+                      grad_over_time[:,1] * states[:,0])
     
     wx = wx - learning_rate_x * grad_wx
     wrec = wrec - learning_rate_rec * grad_rec
 
-    print('Current Epoch: ',iter, '  current predition :' ,layer_3)
+    if iter%1000 == 0:
+        print('Current Epoch: ',iter, '  current predition :' ,layer_3)
     
 
 # 3. Final Output and rounded resutls
@@ -70,6 +81,9 @@ states[:,3] = layer_3
 
 print('Ground Truth: ',layer_3)
 print('Rounded Truth: ',np.round(layer_3))
+print("Final weight X : ",wx)
+print("Final weight Rec : ",wrec)
+
 
 
 

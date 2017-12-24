@@ -1,6 +1,6 @@
 
 import numpy as np
-import sys
+import sys,time
 
 
 
@@ -49,7 +49,7 @@ iterations = 2000
 x,y = generate_dataset(num_examples=num_examples, output_dim = output_dim)
 
 batch_size = 1000
-alpha = 0.0003
+alpha = 0.03
 
 
 class DNI(object):
@@ -80,6 +80,7 @@ class DNI(object):
         self.weights_synthetic_grads += self.output.T.dot(self.synthetic_gradient_delta) * self.alpha
         
 #  input = 24, output = 12 , layer_1_dim = 128, layer_2_dim = 64
+start = time.time()
 input_dim = len(x[0])
 layer_1_dim = 128
 layer_2_dim = 64
@@ -112,7 +113,7 @@ for iter in range(iterations):
     
     error += (np.sum(np.abs(layer_3_delta * layer_3_out * (1 - layer_3_out))))
 
-    if(error < 0.000001):
+    if(error < 0.1):
         sys.stdout.write("\rIter:" + str(iter) + " Loss:" + str(error))
         break       
         
@@ -120,7 +121,8 @@ for iter in range(iterations):
     if(iter % 100 == 0):
         print("")
 
-print("\nFinal Prediction : ")
+end = time.time()
+
 
 _, layer_1_out = layer_1.forward_and_synthetic_update(x)
 layer_1_delta, layer_2_out = layer_2.forward_and_synthetic_update(layer_1_out)
@@ -133,6 +135,6 @@ for iter in range(10):
     print(layer_3_out[iter].dot(2**np.arange(x[iter][:12].size)[::-1]))
 
     truteh = x[iter][:12] + x[iter][12:]
-    print(truteh.dot(2**np.arange(x[iter][:12].size)[::-1]),'\n')
+    print("The truth data: ",truteh.dot(2**np.arange(x[iter][:12].size)[::-1]),'\n')
     
-    
+print("\n\n------------\nTraining Time: ",end - start )

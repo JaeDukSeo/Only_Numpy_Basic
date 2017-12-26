@@ -40,9 +40,11 @@ Implementing varity of Neural Network Algorithms only using Numpy Library, and m
 
 ## Medium Explanation Posts
 
-Home Page:
+Only Numpy: Deriving Forward feed and Back Propagation in Synthetic Gradient (Decoupled Neural Interfaces) with Interactive Code feat. iamtrask 
 
-![home](readme_media/home.gif "home")
+![synthetic](image/synthetic.gif "synthetic")
+
+Follow this [Link](https://medium.com/@SeoJaeDuk/only-numpy-deriving-forward-feed-and-back-propagation-in-synthetic-gradient-decoupled-neural-ca4c99666bbf)
 
 Registering User:
 

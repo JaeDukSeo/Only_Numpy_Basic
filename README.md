@@ -32,6 +32,12 @@ Implementing varity of Neural Network Algorithms only using Numpy Library, and m
 * ZXCVBN password strength checker
 * CKEditor for editing pages
 
+## Youtube Channel
+
+* I have a Youtube channel where I try to explain things follow this [Link](https://www.youtube.com/c/JaeDukSeo) <br />
+<img src="image/youtube.PNG" width="1000"/>
+
+
 ## Medium Explanation Posts
 
 Home Page:

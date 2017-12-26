@@ -13,7 +13,7 @@
 
 Implementing varity of Neural Network Algorithms only using Numpy Library, and maybe Sklearn (only to generate training data.)
 
-**Documentation available at [http://hack4impact.github.io/flask-base](http://hack4impact.github.io/flask-base).**
+**For more tutorial Visit my website:  [https://jaedukseo.me/](https://jaedukseo.me/).**
 
 ## What's included?
 

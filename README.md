@@ -21,16 +21,14 @@ Implementing varity of Neural Network Algorithms only using Numpy Library, and m
 
 ## What's included?
 
-* Blueprints
-* User and permissions management
-* Flask-SQLAlchemy for databases
-* Flask-WTF for forms
-* Flask-Assets for asset management and SCSS compilation
-* Flask-Mail for sending emails
-* gzip compression
-* Redis Queue for handling asynchronous tasks
-* ZXCVBN password strength checker
-* CKEditor for editing pages
+* ANN Basic And Gate
+* ANN Basic Constant Learning Rate
+* ANN Basic Constant Step Decay
+* RNN without Activation Function
+* RNN with Activation Function
+* Sythentic Gradient 
+* Sythentic Gradient (Multi Threaded)
+
 
 ## Youtube Channel
 

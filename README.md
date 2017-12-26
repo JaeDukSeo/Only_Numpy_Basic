@@ -14,6 +14,10 @@
 Implementing varity of Neural Network Algorithms only using Numpy Library, and maybe Sklearn (only to generate training data.)
 
 **For more tutorial Visit my website:  [https://jaedukseo.me/](https://jaedukseo.me/).**
+**For more tutorial Visit my You Tube Channel:  [https://www.youtube.com/c/JaeDukSeo](https://www.youtube.com/c/JaeDukSeo).**
+**Also, Follow me on Twitter:  [https://twitter.com/JaeDukSeo](https://twitter.com/JaeDukSeo).**
+**Also, Follow me on Medium:  [https://medium.com/@SeoJaeDuk](https://medium.com/@SeoJaeDuk).**
+
 
 ## What's included?
 

@@ -40,24 +40,13 @@ Implementing varity of Neural Network Algorithms only using Numpy Library, and m
 
 ## Medium Explanation Posts
 
-Only Numpy: Deriving Forward feed and Back Propagation in Synthetic Gradient (Decoupled Neural Interfaces) with Interactive Code feat. iamtrask 
+[Only Numpy: Deriving Forward feed and Back Propagation in Synthetic Gradient (Decoupled Neural Interfaces) with Interactive Code feat. iamtrask](https://medium.com/@SeoJaeDuk/only-numpy-deriving-forward-feed-and-back-propagation-in-synthetic-gradient-decoupled-neural-ca4c99666bbf)
 
 ![synthetic](image/synthetic.gif "synthetic")
 
-Follow this [Link](https://medium.com/@SeoJaeDuk/only-numpy-deriving-forward-feed-and-back-propagation-in-synthetic-gradient-decoupled-neural-ca4c99666bbf)
+[Only Numpy: Vanilla Recurrent Neural Network Deriving Back propagation Through Time Practice](https://medium.com/@SeoJaeDuk/only-numpy-vanilla-recurrent-neural-network-back-propagation-practice-math-956fbea32704)
 
-Registering User:
-
-![registering](readme_media/register.gif "register")
-
-Admin Editing Page:
-
-![edit page](readme_media/editpage.gif "editpage")
-
-Admin Editing Users:
-
-![edit user](readme_media/edituser.gif "edituser")
-
+![rnn](image/rnn.gif "rnn")
 
 ## Setting up
 
@@ -66,7 +55,6 @@ Admin Editing Users:
 ```
 $ git clone https://github.com/JaeDukSeo/Only_Numpy_Basic
 $ cd Only_Numpy_Basic
-
 ```
 
 ##### Choose the NN type you wish to run and go into repo

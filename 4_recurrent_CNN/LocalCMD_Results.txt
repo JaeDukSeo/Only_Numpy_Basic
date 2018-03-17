@@ -1,0 +1,418 @@
+  from ._conv import register_converters as _register_converters
+Extracting ../../MNIST_data\train-images-idx3-ubyte.gz
+Extracting ../../MNIST_data\train-labels-idx1-ubyte.gz
+Extracting ../../MNIST_data\t10k-images-idx3-ubyte.gz
+Extracting ../../MNIST_data\t10k-labels-idx1-ubyte.gz
+----- Case 0 -------
+2018-03-16 22:56:58.386192: I C:\tf_jenkins\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2
+2018-03-16 22:56:58.971314: I C:\tf_jenkins\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1212] Found device 0 with properties:
+name: GeForce GTX 970M major: 5 minor: 2 memoryClockRate(GHz): 1.038
+pciBusID: 0000:01:00.0
+totalMemory: 3.00GiB freeMemory: 2.48GiB
+2018-03-16 22:56:58.994633: I C:\tf_jenkins\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1312] Adding visible gpu devices: 0
+2018-03-16 22:56:59.302845: I C:\tf_jenkins\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 2192 MB memory) -> physical GPU (device: 0, name: GeForce GTX 970M, pci bus id: 0000:01:00.0, compute capability: 5.2)
+====== Current iter:  0 ======== 3136.032  current Accuracy:  0.2193
+Current Avg Train Cost :  3263.030887858073
+Current Avg Train Acc :  0.13969999986390272
+Current Avg Test Cost :  3162.0923583984377
+Current Avg Test Acc :  0.2020000010728836
+====== Current iter:  0 ========
+====== Current iter:  100 ======== 2539.4097  current Accuracy:  0.758
+Current Avg Train Cost :  2546.8334798177084
+Current Avg Train Acc :  0.7427499999602636
+Current Avg Test Cost :  2534.9115966796876
+Current Avg Test Acc :  0.7503999948501587
+====== Current iter:  100 ========
+====== Current iter:  200 ======== 2487.3057  current Accuracy:  0.804
+Current Avg Train Cost :  2471.64443359375
+Current Avg Train Acc :  0.8106499969959259
+Current Avg Test Cost :  2464.1305908203126
+Current Avg Test Acc :  0.8196000099182129
+====== Current iter:  200 ========
+====== Current iter:  300 ======== 2429.0767  current Accuracy:  0.837
+Current Avg Train Cost :  2430.011055501302
+Current Avg Train Acc :  0.843066668510437
+Current Avg Test Cost :  2419.459765625
+Current Avg Test Acc :  0.854799997806549
+====== Current iter:  300 ========
+====== Current iter:  400 ======== 2384.6665  current Accuracy:  0.899
+Current Avg Train Cost :  2399.2935587565103
+Current Avg Train Acc :  0.86853333512942
+Current Avg Test Cost :  2393.8662841796877
+Current Avg Test Acc :  0.875
+====== Current iter:  400 ========
+====== Current iter:  500 ======== 2377.7927  current Accuracy:  0.885
+Current Avg Train Cost :  2381.6067789713543
+Current Avg Train Acc :  0.8835166692733765
+Current Avg Test Cost :  2378.434228515625
+Current Avg Test Acc :  0.8870000004768371
+====== Current iter:  500 ========
+====== Current iter:  600 ======== 2369.6328  current Accuracy:  0.891
+Current Avg Train Cost :  2370.324743652344
+Current Avg Train Acc :  0.8950666646162669
+Current Avg Test Cost :  2368.9295166015627
+Current Avg Test Acc :  0.8953999996185302
+====== Current iter:  600 ========
+====== Current iter:  700 ======== 2358.6538  current Accuracy:  0.901
+Current Avg Train Cost :  2363.127652994792
+Current Avg Train Acc :  0.8997500012318294
+Current Avg Test Cost :  2361.209375
+Current Avg Test Acc :  0.9022999942302704
+====== Current iter:  700 ========
+====== Current iter:  800 ======== 2350.6716  current Accuracy:  0.909
+Current Avg Train Cost :  2353.2121459960936
+Current Avg Train Acc :  0.9095500012238821
+Current Avg Test Cost :  2352.2658203125
+Current Avg Test Acc :  0.9084999978542327
+====== Current iter:  800 ========
+
+
+----- Case 1 -------
+2018-03-17 01:10:53.134236: I C:\tf_jenkins\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1312] Adding visible gpu devices: 0
+2018-03-17 01:10:53.146264: I C:\tf_jenkins\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 181 MB memory) -> physical GPU (device: 0, name: GeForce GTX 970M, pci bus id: 0000:01:00.0, compute capability: 5.2)
+====== Current iter:  0 ======== 3261.3154  current Accuracy:  0.093
+Current Avg Train Cost :  3305.859338378906
+Current Avg Train Acc :  0.08918333301941554
+Current Avg Test Cost :  3271.6851318359377
+Current Avg Test Acc :  0.08200000002980232
+====== Current iter:  0 ========
+====== Current iter:  100 ======== 2524.745  current Accuracy:  0.7153
+Current Avg Train Cost :  2530.096614583333
+Current Avg Train Acc :  0.707233331600825
+Current Avg Test Cost :  2527.60087890625
+Current Avg Test Acc :  0.7083999931812286
+====== Current iter:  100 ========
+====== Current iter:  200 ======== 2428.4836  current Accuracy:  0.817
+Current Avg Train Cost :  2434.3317749023436
+Current Avg Train Acc :  0.8162666648626328
+Current Avg Test Cost :  2425.221728515625
+Current Avg Test Acc :  0.8236000001430511
+====== Current iter:  200 ========
+====== Current iter:  300 ======== 2401.68  current Accuracy:  0.85847
+Current Avg Train Cost :  2400.926554361979
+Current Avg Train Acc :  0.8547166665395101
+Current Avg Test Cost :  2393.912890625
+Current Avg Test Acc :  0.8611999988555908
+====== Current iter:  300 ========
+====== Current iter:  400 ======== 2403.2776  current Accuracy:  0.847
+Current Avg Train Cost :  2383.0910807291666
+Current Avg Train Acc :  0.8724666605393092
+Current Avg Test Cost :  2377.1298828125
+Current Avg Test Acc :  0.8779000043869019
+====== Current iter:  400 ========
+====== Current iter:  500 ======== 2369.4668  current Accuracy:  0.885
+Current Avg Train Cost :  2376.5219685872394
+Current Avg Train Acc :  0.8790333330631256
+Current Avg Test Cost :  2370.51904296875
+Current Avg Test Acc :  0.8879000008106231
+====== Current iter:  500 ========
+====== Current iter:  600 ======== 2359.1382  current Accuracy:  0.897
+Current Avg Train Cost :  2363.476603190104
+Current Avg Train Acc :  0.8953166633844376
+Current Avg Test Cost :  2357.7946533203126
+Current Avg Test Acc :  0.9010999977588654
+====== Current iter:  600 ========
+====== Current iter:  700 ======== 2360.9812  current Accuracy:  0.898
+Current Avg Train Cost :  2363.1128743489585
+Current Avg Train Acc :  0.8959666659434636
+Current Avg Test Cost :  2357.97734375
+Current Avg Test Acc :  0.9008000075817109
+====== Current iter:  700 ========
+====== Current iter:  800 ======== 2347.0986  current Accuracy:  0.918
+Current Avg Train Cost :  2350.969071451823
+Current Avg Train Acc :  0.9084833314021429
+Current Avg Test Cost :  2348.15732421875
+Current Avg Test Acc :  0.9126999914646149
+====== Current iter:  800 ========
+
+
+----- Case 2 -------
+2018-03-17 03:10:08.804430: I C:\tf_jenkins\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1312] Adding visible gpu devices: 0
+2018-03-17 03:10:08.814692: I C:\tf_jenkins\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 181 MB memory) -> physical GPU (device: 0, name: GeForce GTX 970M, pci bus id: 0000:01:00.0, compute capability: 5.2)
+====== Current iter:  0 ======== 3279.2139  current Accuracy:  0.107
+Current Avg Train Cost :  3307.900602213542
+Current Avg Train Acc :  0.10018333333233992
+Current Avg Test Cost :  3280.261474609375
+Current Avg Test Acc :  0.10019999966025353
+====== Current iter:  0 ========
+====== Current iter:  100 ======== 2679.2698  current Accuracy:  0.627
+Current Avg Train Cost :  2680.7453125
+Current Avg Train Acc :  0.6063333332538605
+Current Avg Test Cost :  2673.1535888671874
+Current Avg Test Acc :  0.611899995803833
+====== Current iter:  100 ========
+====== Current iter:  200 ======== 2581.936  current Accuracy:  0.6976
+Current Avg Train Cost :  2578.0540486653645
+Current Avg Train Acc :  0.7100500007470448
+Current Avg Test Cost :  2568.5391845703125
+Current Avg Test Acc :  0.7190000116825104
+====== Current iter:  200 ========
+====== Current iter:  300 ======== 2540.6475  current Accuracy:  0.737
+Current Avg Train Cost :  2516.152978515625
+Current Avg Train Acc :  0.7649666666984558
+Current Avg Test Cost :  2504.7328125
+Current Avg Test Acc :  0.7727000117301941
+====== Current iter:  300 ========
+====== Current iter:  400 ======== 2466.29  current Accuracy:  0.83118
+Current Avg Train Cost :  2473.4269165039063
+Current Avg Train Acc :  0.8030333340167999
+Current Avg Test Cost :  2464.001123046875
+Current Avg Test Acc :  0.8099999964237213
+====== Current iter:  400 ========
+====== Current iter:  500 ======== 2439.1616  current Accuracy:  0.834
+Current Avg Train Cost :  2443.3975911458333
+Current Avg Train Acc :  0.8266500016053517
+Current Avg Test Cost :  2434.8666748046876
+Current Avg Test Acc :  0.8329000055789948
+====== Current iter:  500 ========
+====== Current iter:  600 ======== 2427.4785  current Accuracy:  0.835
+Current Avg Train Cost :  2422.074434407552
+Current Avg Train Acc :  0.8469166706005732
+Current Avg Test Cost :  2410.577099609375
+Current Avg Test Acc :  0.8578000128269195
+====== Current iter:  600 ========
+====== Current iter:  700 ======== 2395.9397  current Accuracy:  0.857
+Current Avg Train Cost :  2404.613155110677
+Current Avg Train Acc :  0.8620833327372869
+Current Avg Test Cost :  2399.252685546875
+Current Avg Test Acc :  0.8672000110149384
+====== Current iter:  700 ========
+====== Current iter:  800 ======== 2392.3862  current Accuracy:  0.878
+Current Avg Train Cost :  2392.148649088542
+Current Avg Train Acc :  0.8722166697184245
+Current Avg Test Cost :  2386.6579345703126
+Current Avg Test Acc :  0.876800000667572
+====== Current iter:  800 ========
+
+
+----- Case 3 -------
+2018-03-17 05:23:01.522037: I C:\tf_jenkins\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1312] Adding visible gpu devices: 0
+2018-03-17 05:23:01.535698: I C:\tf_jenkins\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 181 MB memory) -> physical GPU (device: 0, name: GeForce GTX 970M, pci bus id: 0000:01:00.0, compute capability: 5.2)
+====== Current iter:  0 ======== 3109.772  current Accuracy:  0.2266
+Current Avg Train Cost :  3210.7871622721354
+Current Avg Train Acc :  0.17355000053842862
+Current Avg Test Cost :  3095.5125732421875
+Current Avg Test Acc :  0.24399999976158143
+====== Current iter:  0 ========
+====== Current iter:  100 ======== 2599.358  current Accuracy:  0.6927
+Current Avg Train Cost :  2592.3541259765625
+Current Avg Train Acc :  0.696016667286555
+Current Avg Test Cost :  2583.173193359375
+Current Avg Test Acc :  0.7055999994277954
+====== Current iter:  100 ========
+====== Current iter:  200 ======== 2521.5242  current Accuracy:  0.753
+Current Avg Train Cost :  2528.261641438802
+Current Avg Train Acc :  0.7514333367347718
+Current Avg Test Cost :  2520.931787109375
+Current Avg Test Acc :  0.7625
+====== Current iter:  200 ========
+====== Current iter:  300 ======== 2523.5317  current Accuracy:  0.755
+Current Avg Train Cost :  2492.471162923177
+Current Avg Train Acc :  0.7833500027656555
+Current Avg Test Cost :  2486.130126953125
+Current Avg Test Acc :  0.7865000128746032
+====== Current iter:  300 ========
+====== Current iter:  400 ======== 2493.2656  current Accuracy:  0.786
+Current Avg Train Cost :  2472.0120483398437
+Current Avg Train Acc :  0.7998833388090134
+Current Avg Test Cost :  2467.0307861328124
+Current Avg Test Acc :  0.8027000069618225
+====== Current iter:  400 ========
+====== Current iter:  500 ======== 2445.5073  current Accuracy:  0.826
+Current Avg Train Cost :  2458.754500325521
+Current Avg Train Acc :  0.8107833315928777
+Current Avg Test Cost :  2452.5364501953127
+Current Avg Test Acc :  0.8177999913692474
+====== Current iter:  500 ========
+====== Current iter:  600 ======== 2437.066  current Accuracy:  0.8323
+Current Avg Train Cost :  2449.726208496094
+Current Avg Train Acc :  0.8220666666825612
+Current Avg Test Cost :  2445.5228271484375
+Current Avg Test Acc :  0.8243000030517578
+====== Current iter:  600 ========
+====== Current iter:  700 ======== 2426.1228  current Accuracy:  0.835
+Current Avg Train Cost :  2440.7214965820312
+Current Avg Train Acc :  0.8286666671435038
+Current Avg Test Cost :  2437.9960693359376
+Current Avg Test Acc :  0.8316000044345856
+====== Current iter:  700 ========
+====== Current iter:  800 ======== 2419.3599  current Accuracy:  0.859
+Current Avg Train Cost :  2436.929724121094
+Current Avg Train Acc :  0.8385000000397365
+Current Avg Test Cost :  2431.506103515625
+Current Avg Test Acc :  0.8438000023365021
+====== Current iter:  800 ========
+
+
+----- Case 4 -------
+2018-03-17 07:46:13.476059: I C:\tf_jenkins\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1312] Adding visible gpu devices: 0
+2018-03-17 07:46:13.488101: I C:\tf_jenkins\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 181 MB memory) -> physical GPU (device: 0, name: GeForce GTX 970M, pci bus id: 0000:01:00.0, compute capability: 5.2)
+====== Current iter:  0 ======== 3155.0176  current Accuracy:  0.201
+Current Avg Train Cost :  3237.3731363932293
+Current Avg Train Acc :  0.15800000006953877
+Current Avg Test Cost :  3136.2597900390624
+Current Avg Test Acc :  0.23050000071525573
+====== Current iter:  0 ========
+====== Current iter:  100 ======== 2611.9753  current Accuracy:  0.679
+Current Avg Train Cost :  2627.840625
+Current Avg Train Acc :  0.6733500033617019
+Current Avg Test Cost :  2619.292138671875
+Current Avg Test Acc :  0.6798999965190887
+====== Current iter:  100 ========
+====== Current iter:  200 ======== 2520.8276  current Accuracy:  0.774
+Current Avg Train Cost :  2498.2704956054686
+Current Avg Train Acc :  0.7895000020662943
+Current Avg Test Cost :  2492.7977783203123
+Current Avg Test Acc :  0.7953000009059906
+====== Current iter:  200 ========
+====== Current iter:  300 ======== 2475.4026  current Accuracy:  0.811
+Current Avg Train Cost :  2466.502726236979
+Current Avg Train Acc :  0.8128333389759064
+Current Avg Test Cost :  2462.785693359375
+Current Avg Test Acc :  0.8173000037670135
+====== Current iter:  300 ========
+====== Current iter:  400 ======== 2453.209  current Accuracy:  0.8147
+Current Avg Train Cost :  2449.426749674479
+Current Avg Train Acc :  0.8250333329041799
+Current Avg Test Cost :  2446.6502197265627
+Current Avg Test Acc :  0.8267000019550323
+====== Current iter:  400 ========
+====== Current iter:  500 ======== 2434.1235  current Accuracy:  0.841
+Current Avg Train Cost :  2438.7953287760415
+Current Avg Train Acc :  0.8338166654109955
+Current Avg Test Cost :  2436.632177734375
+Current Avg Test Acc :  0.8370000004768372
+====== Current iter:  500 ========
+====== Current iter:  600 ======== 2430.184  current Accuracy:  0.8356
+Current Avg Train Cost :  2430.040840657552
+Current Avg Train Acc :  0.8397833347320557
+Current Avg Test Cost :  2429.469580078125
+Current Avg Test Acc :  0.8428999960422516
+====== Current iter:  600 ========
+====== Current iter:  700 ======== 2430.404  current Accuracy:  0.8444
+Current Avg Train Cost :  2424.6208333333334
+Current Avg Train Acc :  0.844133327404658
+Current Avg Test Cost :  2424.48310546875
+Current Avg Test Acc :  0.8451999962329865
+====== Current iter:  700 ========
+====== Current iter:  800 ======== 2409.8303  current Accuracy:  0.862
+Current Avg Train Cost :  2418.268623860677
+Current Avg Train Acc :  0.8499166677395503
+Current Avg Test Cost :  2417.2321533203126
+Current Avg Test Acc :  0.8504000008106232
+====== Current iter:  800 ========
+
+
+----- Case 5 -------
+2018-03-17 10:07:55.586493: I C:\tf_jenkins\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1312] Adding visible gpu devices: 0
+2018-03-17 10:07:55.600260: I C:\tf_jenkins\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 181 MB memory) -> physical GPU (device: 0, name: GeForce GTX 970M, pci bus id: 0000:01:00.0, compute capability: 5.2)
+====== Current iter:  0 ======== 2973.7695  current Accuracy:  0.372
+Current Avg Train Cost :  3123.9674723307294
+Current Avg Train Acc :  0.23759999995430311
+Current Avg Test Cost :  2965.040185546875
+Current Avg Test Acc :  0.38359999656677246
+====== Current iter:  0 ========
+====== Current iter:  100 ======== 2420.7366  current Accuracy:  0.874
+Current Avg Train Cost :  2432.802518717448
+Current Avg Train Acc :  0.8526333312193553
+Current Avg Test Cost :  2424.6105712890626
+Current Avg Test Acc :  0.8609000027179718
+====== Current iter:  100 ========
+====== Current iter:  200 ======== 2377.0261  current Accuracy:  0.894
+Current Avg Train Cost :  2383.2939331054686
+Current Avg Train Acc :  0.8923333277304967
+Current Avg Test Cost :  2379.4046630859375
+Current Avg Test Acc :  0.898199999332428
+====== Current iter:  200 ========
+====== Current iter:  300 ======== 2345.7703  current Accuracy:  0.914
+Current Avg Train Cost :  2356.378035481771
+Current Avg Train Acc :  0.9131499965985616
+Current Avg Test Cost :  2353.64599609375
+Current Avg Test Acc :  0.9142000079154968
+====== Current iter:  300 ========
+====== Current iter:  400 ======== 2344.2734  current Accuracy:  0.927
+Current Avg Train Cost :  2341.238065592448
+Current Avg Train Acc :  0.9251333365837733
+Current Avg Test Cost :  2340.469775390625
+Current Avg Test Acc :  0.9258000016212463
+====== Current iter:  400 ========
+====== Current iter:  500 ======== 2325.8784  current Accuracy:  0.944
+Current Avg Train Cost :  2331.264713541667
+Current Avg Train Acc :  0.9345666686693828
+Current Avg Test Cost :  2330.993603515625
+Current Avg Test Acc :  0.9342999935150147
+====== Current iter:  500 ========
+====== Current iter:  600 ======== 2319.3245  current Accuracy:  0.942
+Current Avg Train Cost :  2322.6688313802083
+Current Avg Train Acc :  0.9421666661898295
+Current Avg Test Cost :  2326.268359375
+Current Avg Test Acc :  0.9387999951839447
+====== Current iter:  600 ========
+====== Current iter:  700 ======== 2324.5576  current Accuracy:  0.949
+Current Avg Train Cost :  2317.7925944010417
+Current Avg Train Acc :  0.9470333327849706
+Current Avg Test Cost :  2318.50771484375
+Current Avg Test Acc :  0.9477000057697296
+====== Current iter:  700 ========
+====== Current iter:  800 ======== 2312.1829  current Accuracy:  0.951
+Current Avg Train Cost :  2312.5720784505206
+Current Avg Train Acc :  0.9528000007073084
+Current Avg Test Cost :  2315.64189453125
+Current Avg Test Acc :  0.9499000012874603
+====== Current iter:  800 ========
+
+
+----- Case 6 -------
+2018-03-17 12:39:27.418475: I C:\tf_jenkins\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1312] Adding visible gpu devices: 0
+2018-03-17 12:39:27.437776: I C:\tf_jenkins\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 181 MB memory) -> physical GPU (device: 0, name: GeForce GTX 970M, pci bus id: 0000:01:00.0, compute capability: 5.2)
+====== Current iter:  0 ======== 3060.8027  current Accuracy:  0.293
+Current Avg Train Cost :  3185.322900390625
+Current Avg Train Acc :  0.18188333349923294
+Current Avg Test Cost :  3048.454052734375
+Current Avg Test Acc :  0.3019000023603439
+====== Current iter:  0 ========
+====== Current iter:  100 ======== 2457.5469  current Accuracy:  0.833
+Current Avg Train Cost :  2448.072965494792
+Current Avg Train Acc :  0.8365666647752126
+Current Avg Test Cost :  2442.1848876953127
+Current Avg Test Acc :  0.8407999992370605
+====== Current iter:  100 ========
+====== Current iter:  200 ======== 2392.4402  current Accuracy:  0.883
+Current Avg Train Cost :  2391.015616861979
+Current Avg Train Acc :  0.8843833317359289
+Current Avg Test Cost :  2386.8238525390625
+Current Avg Test Acc :  0.8862000107765198
+====== Current iter:  200 ========
+====== Current iter:  300 ======== 2353.5635  current Accuracy:  0.905
+Current Avg Train Cost :  2364.350764973958
+Current Avg Train Acc :  0.9043499986330669
+Current Avg Test Cost :  2362.9725341796875
+Current Avg Test Acc :  0.9056000113487244
+====== Current iter:  300 ========
+====== Current iter:  400 ======== 2345.5825  current Accuracy:  0.914
+Current Avg Train Cost :  2349.8712849934896
+Current Avg Train Acc :  0.9172000020742417
+Current Avg Test Cost :  2348.6496826171874
+Current Avg Test Acc :  0.9165000021457672
+====== Current iter:  400 ========
+====== Current iter:  500 ======== 2335.4324  current Accuracy:  0.936
+Current Avg Train Cost :  2338.547216796875
+Current Avg Train Acc :  0.9279666701952617
+Current Avg Test Cost :  2338.589599609375
+Current Avg Test Acc :  0.9222000062465667
+====== Current iter:  500 ========
+====== Current iter:  600 ======== 2329.0808  current Accuracy:  0.936
+Current Avg Train Cost :  2329.3175252278647
+Current Avg Train Acc :  0.9350666642189026
+Current Avg Test Cost :  2327.7230224609375
+Current Avg Test Acc :  0.935099995136261
+====== Current iter:  600 ========
+====== Current iter:  700 ======== 2326.1953  current Accuracy:  0.935
+Current Avg Train Cost :  2324.5361531575522
+Current Avg Train Acc :  0.9398833334445953
+Current Avg Test Cost :  2325.81279296875
+Current Avg Test Acc :  0.9393999993801116
+====== Current iter:  700 ========
+====== Current iter:  800 ======== 2318.2964  current Accuracy:  0.943
+Current Avg Train Cost :  2318.615576171875
+Current Avg Train Acc :  0.9448666642109553

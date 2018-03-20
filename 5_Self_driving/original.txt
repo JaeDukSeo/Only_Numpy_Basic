@@ -1,0 +1,123 @@
+> python e_original.py
+C:\Users\JDSeo\Anaconda3\lib\site-packages\h5py\__init__.py:34: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+2018-03-20 00:41:10.575879: I C:\tf_jenkins\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2
+2018-03-20 00:41:11.120646: I C:\tf_jenkins\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1212] Found device 0 with properties:
+name: GeForce GTX 1080 with Max-Q Design major: 6 minor: 1 memoryClockRate(GHz): 1.366
+pciBusID: 0000:01:00.0
+totalMemory: 8.00GiB freeMemory: 6.61GiB
+2018-03-20 00:41:11.139105: I C:\tf_jenkins\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:1312] Adding visible gpu devices: 0
+2018-03-20 00:41:13.466301: I C:\tf_jenkins\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gpu\gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 6384 MB memory) -> physical GPU (device: 0, name: GeForce GTX 1080 with Max-Q Design, pci bus id: 0000:01:00.0, compute capability: 6.1)
+current iter: 0  current cost:  646.31433  current acc:  0.125
+=========
+Avg Train Cost:  650.6117878417969
+Avg Train Acc:  0.12418000002205372
+Avg Test Cost:  642.0903198242188
+Avg Test Acc:  0.1503000006079674
+-----------
+current iter: 50  current cost:  638.5632  current acc:  0.1455
+=========
+Avg Train Cost:  638.4183093261719
+Avg Train Acc:  0.1441600005030632
+Avg Test Cost:  637.6050158691406
+Avg Test Acc:  0.1413000001013279
+-----------
+current iter: 100  current cost:  628.4665  current acc:  0.1655
+=========
+Avg Train Cost:  630.9463435058594
+Avg Train Acc:  0.16490000039339064
+Avg Test Cost:  629.7562756347656
+Avg Test Acc:  0.16780000030994416
+-----------
+current iter: 150  current cost:  626.8833  current acc:  0.1685
+=========
+Avg Train Cost:  625.4693747558593
+Avg Train Acc:  0.18560000002384186
+Avg Test Cost:  626.683974609375
+Avg Test Acc:  0.1877000004053116
+-----------
+current iter: 200  current cost:  635.6882  current acc:  0.1155
+=========
+Avg Train Cost:  635.1815415039063
+Avg Train Acc:  0.15566000059247018
+Avg Test Cost:  634.995712890625
+Avg Test Acc:  0.15080000072717667
+-----------
+current iter: 250  current cost:  628.07117  current acc:  0.155
+=========
+Avg Train Cost:  627.028974609375
+Avg Train Acc:  0.17718000021576882
+Avg Test Cost:  628.1906994628906
+Avg Test Acc:  0.17480000033974646
+-----------
+current iter: 300  current cost:  628.25165  current acc:  0.145
+=========
+Avg Train Cost:  625.4008510742187
+Avg Train Acc:  0.18131999987363814
+Avg Test Cost:  627.6626416015625
+Avg Test Acc:  0.1779000000655651
+-----------
+current iter: 350  current cost:  630.71204  current acc:  0.165
+=========
+Avg Train Cost:  624.2872976074219
+Avg Train Acc:  0.18567999967932702
+Avg Test Cost:  627.1664831542969
+Avg Test Acc:  0.17730000004172325
+-----------
+current iter: 400  current cost:  626.75745  current acc:  0.165
+=========
+Avg Train Cost:  623.7246496582031
+Avg Train Acc:  0.1850400004684925
+Avg Test Cost:  626.4173156738282
+Avg Test Acc:  0.17980000078678132
+-----------
+current iter: 450  current cost:  630.1983  current acc:  0.1775
+=========
+Avg Train Cost:  623.1788435058594
+Avg Train Acc:  0.1875200002193451
+Avg Test Cost:  626.8410766601562
+Avg Test Acc:  0.17820000112056733
+-----------
+current iter: 500  current cost:  625.7775  current acc:  0.1855
+=========
+Avg Train Cost:  622.7204897460938
+Avg Train Acc:  0.18851999986171722
+Avg Test Cost:  626.4120971679688
+Avg Test Acc:  0.1831999996304512
+-----------
+current iter: 550  current cost:  625.587  current acc:  0.16145
+=========
+Avg Train Cost:  622.4316901855469
+Avg Train Acc:  0.18914000004529952
+Avg Test Cost:  626.1437036132812
+Avg Test Acc:  0.18249999940395356
+-----------
+current iter: 600  current cost:  628.03394  current acc:  0.185
+=========
+Avg Train Cost:  621.8911279296875
+Avg Train Acc:  0.19269999998807907
+Avg Test Cost:  626.1904052734375
+Avg Test Acc:  0.18679999947547912
+-----------
+current iter: 650  current cost:  624.75134  current acc:  0.255
+=========
+Avg Train Cost:  621.7081447753907
+Avg Train Acc:  0.1915399996638298
+Avg Test Cost:  625.7277575683594
+Avg Test Acc:  0.18470000028610228
+-----------
+current iter: 700  current cost:  624.8883  current acc:  0.1955
+=========
+Avg Train Cost:  621.4774270019532
+Avg Train Acc:  0.19233999925851822
+Avg Test Cost:  625.3756896972657
+Avg Test Acc:  0.1844999995827675
+-----------
+current iter: 750  current cost:  625.71106  current acc:  0.195
+=========
+Avg Train Cost:  620.9978937988282
+Avg Train Acc:  0.1926999998986721
+Avg Test Cost:  626.0871118164063
+Avg Test Acc:  0.1852000005543232
+-----------
+current iter: 799  current cost:  627.3506  current acc:  0.1955

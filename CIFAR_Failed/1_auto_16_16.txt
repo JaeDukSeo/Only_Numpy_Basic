@@ -1,0 +1,940 @@
+Test Image Current iter: 86  learning rate: 0.001000  Current batach :  9900  current cost: 1.877079129219055176  current acc: 0.45000
+
+==== Current Iter : 86  Average Results =====
+Avg Train Cost: 0.417753419876098653
+Avg Train Acc:  0.648680001735687295
+Avg Test Cost:  1.373212184309959394
+Avg Test Acc:   0.414499998092651367
+=================================
+Test Image Current iter: 87  learning rate: 0.001000  Current batach :  9900  current cost: 1.947561383247375488  current acc: 0.45000
+
+==== Current Iter : 87  Average Results =====
+Avg Train Cost: 0.416809028029441808
+Avg Train Acc:  0.649480001568794263
+Avg Test Cost:  1.400191295146942183
+Avg Test Acc:   0.419699998497962967
+=================================
+Test Image Current iter: 88  learning rate: 0.001000  Current batach :  9900  current cost: 1.794799923896789551  current acc: 0.46000
+
+==== Current Iter : 88  Average Results =====
+Avg Train Cost: 0.412596064329147361
+Avg Train Acc:  0.651440000534057595
+Avg Test Cost:  1.378788159489631626
+Avg Test Acc:   0.419799996912479378
+=================================
+==== shuffling iter:  88  =======
+
+Test Image Current iter: 89  learning rate: 0.001000  Current batach :  9900  current cost: 1.285720109939575195  current acc: 0.47000
+
+==== Current Iter : 89  Average Results =====
+Avg Train Cost: 0.452093324899673465
+Avg Train Acc:  0.636040001630783114
+Avg Test Cost:  1.161893175840377879
+Avg Test Acc:   0.400499998331069973
+=================================
+Test Image Current iter: 90  learning rate: 0.001000  Current batach :  9900  current cost: 1.153580665588378906  current acc: 0.48000
+
+==== Current Iter : 90  Average Results =====
+Avg Train Cost: 0.429078840851783772
+Avg Train Acc:  0.643280001640319843
+Avg Test Cost:  1.179075406789779734
+Avg Test Acc:   0.418499998748302460
+=================================
+Test Image Current iter: 91  learning rate: 0.001000  Current batach :  9900  current cost: 1.345416069030761719  current acc: 0.46000
+
+==== Current Iter : 91  Average Results =====
+Avg Train Cost: 0.416654882788658143
+Avg Train Acc:  0.647520000934600826
+Avg Test Cost:  1.232695826888084323
+Avg Test Acc:   0.413199997842311872
+=================================
+Test Image Current iter: 92  learning rate: 0.001000  Current batach :  9900  current cost: 1.358549952507019043  current acc: 0.49000
+
+==== Current Iter : 92  Average Results =====
+Avg Train Cost: 0.413587805628776561
+Avg Train Acc:  0.649000001192092890
+Avg Test Cost:  1.239130758643150365
+Avg Test Acc:   0.421899998784065255
+=================================
+Test Image Current iter: 93  learning rate: 0.001000  Current batach :  9900  current cost: 1.365319728851318359  current acc: 0.48000
+
+==== Current Iter : 93  Average Results =====
+Avg Train Cost: 0.411991991877555863
+Avg Train Acc:  0.650320001363754230
+Avg Test Cost:  1.225357489585876536
+Avg Test Acc:   0.415299998223781608
+=================================
+Test Image Current iter: 94  learning rate: 0.001000  Current batach :  9900  current cost: 1.492541313171386719  current acc: 0.49000
+
+==== Current Iter : 94  Average Results =====
+Avg Train Cost: 0.413674207329750077
+Avg Train Acc:  0.649880000591278040
+Avg Test Cost:  1.326030086874961933
+Avg Test Acc:   0.420399999022483817
+=================================
+Test Image Current iter: 95  learning rate: 0.001000  Current batach :  9900  current cost: 1.787968158721923828  current acc: 0.49000
+
+==== Current Iter : 95  Average Results =====
+Avg Train Cost: 0.409514555573463446
+Avg Train Acc:  0.651520000457763704
+Avg Test Cost:  1.387987561225891175
+Avg Test Acc:   0.425499999523162864
+=================================
+Test Image Current iter: 96  learning rate: 0.001000  Current batach :  9900  current cost: 1.808081030845642090  current acc: 0.48000
+
+==== Current Iter : 96  Average Results =====
+Avg Train Cost: 0.410728234052658070
+Avg Train Acc:  0.651000000715255767
+Avg Test Cost:  1.330346348285674996
+Avg Test Acc:   0.421899996995925897
+=================================
+==== shuffling iter:  96  =======
+
+Test Image Current iter: 97  learning rate: 0.001000  Current batach :  9900  current cost: 1.824794292449951172  current acc: 0.47000
+
+==== Current Iter : 97  Average Results =====
+Avg Train Cost: 0.443970784783363326
+Avg Train Acc:  0.638760000705719033
+Avg Test Cost:  1.313204904198646439
+Avg Test Acc:   0.427099998295307148
+=================================
+Test Image Current iter: 98  learning rate: 0.001000  Current batach :  9900  current cost: 1.506431698799133301  current acc: 0.53000
+
+==== Current Iter : 98  Average Results =====
+Avg Train Cost: 0.407705409944057462
+Avg Train Acc:  0.677680001258850084
+Avg Test Cost:  1.184558764100074768
+Avg Test Acc:   0.492499996423721331
+=================================
+Test Image Current iter: 99  learning rate: 0.001000  Current batach :  9900  current cost: 1.572631478309631348  current acc: 0.53000
+
+==== Current Iter : 99  Average Results =====
+Avg Train Cost: 0.364304818868637081
+Avg Train Acc:  0.731320000410079940
+Avg Test Cost:  1.232629835605621338
+Avg Test Acc:   0.494499998092651383
+=================================
+Test Image Current iter: 100  learning rate: 0.001000  Current batach :  9900  current cost: 1.834076642990112305  current acc: 0.50000
+
+==== Current Iter : 100  Average Results =====
+Avg Train Cost: 0.333508572578430196
+Avg Train Acc:  0.736880001068115242
+Avg Test Cost:  1.402812383770942750
+Avg Test Acc:   0.493099998235702497
+=================================
+Test Image Current iter: 101  learning rate: 0.001000  Current batach :  9900  current cost: 1.870125770568847656  current acc: 0.50000
+
+==== Current Iter : 101  Average Results =====
+Avg Train Cost: 0.320056099772453306
+Avg Train Acc:  0.737640002489090008
+Avg Test Cost:  1.490728486180305401
+Avg Test Acc:   0.486100000441074376
+=================================
+Test Image Current iter: 102  learning rate: 0.001000  Current batach :  9900  current cost: 2.143584251403808594  current acc: 0.50000
+
+==== Current Iter : 102  Average Results =====
+Avg Train Cost: 0.320657348573207879
+Avg Train Acc:  0.738120000123977715
+Avg Test Cost:  1.418899955153465342
+Avg Test Acc:   0.476499996781349189
+=================================
+Test Image Current iter: 103  learning rate: 0.001000  Current batach :  9900  current cost: 1.694290876388549805  current acc: 0.53000
+
+==== Current Iter : 103  Average Results =====
+Avg Train Cost: 0.319414403259754176
+Avg Train Acc:  0.738480001449584922
+Avg Test Cost:  1.393999704718589694
+Avg Test Acc:   0.478099995553493473
+=================================
+Test Image Current iter: 104  learning rate: 0.001000  Current batach :  9900  current cost: 2.008889198303222656  current acc: 0.48000
+
+==== Current Iter : 104  Average Results =====
+Avg Train Cost: 0.319391516387462604
+Avg Train Acc:  0.739559999704360926
+Avg Test Cost:  1.448952137231826809
+Avg Test Acc:   0.471499995589256260
+=================================
+==== shuffling iter:  104  =======
+
+Test Image Current iter: 105  learning rate: 0.001000  Current batach :  9900  current cost: 1.500907421112060547  current acc: 0.48000
+
+==== Current Iter : 105  Average Results =====
+Avg Train Cost: 0.371474355816841129
+Avg Train Acc:  0.721520000457763655
+Avg Test Cost:  1.160102378129959089
+Avg Test Acc:   0.479499996006488793
+=================================
+Test Image Current iter: 106  learning rate: 0.001000  Current batach :  9900  current cost: 1.563654303550720215  current acc: 0.49000
+
+==== Current Iter : 106  Average Results =====
+Avg Train Cost: 0.327801833748817439
+Avg Train Acc:  0.736560001373291029
+Avg Test Cost:  1.208327091336250270
+Avg Test Acc:   0.484299996495246909
+=================================
+Test Image Current iter: 107  learning rate: 0.001000  Current batach :  9900  current cost: 1.771927952766418457  current acc: 0.46000
+
+==== Current Iter : 107  Average Results =====
+Avg Train Cost: 0.312664620161056506
+Avg Train Acc:  0.740800001859664881
+Avg Test Cost:  1.299524245262146049
+Avg Test Acc:   0.472999998927116416
+=================================
+Test Image Current iter: 108  learning rate: 0.001000  Current batach :  9900  current cost: 1.955545902252197266  current acc: 0.49000
+
+==== Current Iter : 108  Average Results =====
+Avg Train Cost: 0.307065769076347361
+Avg Train Acc:  0.742280001640319820
+Avg Test Cost:  1.302821754217147854
+Avg Test Acc:   0.479399996697902675
+=================================
+Test Image Current iter: 109  learning rate: 0.001000  Current batach :  9900  current cost: 1.836470127105712891  current acc: 0.50000
+
+==== Current Iter : 109  Average Results =====
+Avg Train Cost: 0.305451655387878440
+Avg Train Acc:  0.743400001287460310
+Avg Test Cost:  1.392699283361434892
+Avg Test Acc:   0.479699996709823606
+=================================
+Test Image Current iter: 110  learning rate: 0.001000  Current batach :  9900  current cost: 2.184512376785278320  current acc: 0.50000
+
+==== Current Iter : 110  Average Results =====
+Avg Train Cost: 0.307199577927589396
+Avg Train Acc:  0.743080001592636097
+Avg Test Cost:  1.466462926864624094
+Avg Test Acc:   0.481199996769428262
+=================================
+Test Image Current iter: 111  learning rate: 0.001000  Current batach :  9900  current cost: 1.911262512207031250  current acc: 0.52000
+
+==== Current Iter : 111  Average Results =====
+Avg Train Cost: 0.306640231132507324
+Avg Train Acc:  0.743240002393722565
+Avg Test Cost:  1.507141200304031425
+Avg Test Acc:   0.465899998545646676
+=================================
+Test Image Current iter: 112  learning rate: 0.001000  Current batach :  9900  current cost: 1.859398484230041504  current acc: 0.53000
+
+==== Current Iter : 112  Average Results =====
+Avg Train Cost: 0.307888373136520399
+Avg Train Acc:  0.743040000915527354
+Avg Test Cost:  1.560924659967422468
+Avg Test Acc:   0.479899996817111985
+=================================
+==== shuffling iter:  112  =======
+
+Test Image Current iter: 113  learning rate: 0.001000  Current batach :  9900  current cost: 1.532570004463195801  current acc: 0.48000
+
+==== Current Iter : 113  Average Results =====
+Avg Train Cost: 0.346135711550712599
+Avg Train Acc:  0.732000001668930089
+Avg Test Cost:  1.222747816443443325
+Avg Test Acc:   0.479499995708465576
+=================================
+Test Image Current iter: 114  learning rate: 0.001000  Current batach :  9900  current cost: 1.586366415023803711  current acc: 0.48000
+
+==== Current Iter : 114  Average Results =====
+Avg Train Cost: 0.318774430155754074
+Avg Train Acc:  0.741079999446868865
+Avg Test Cost:  1.324505023360252443
+Avg Test Acc:   0.486799996793270129
+=================================
+Test Image Current iter: 115  learning rate: 0.001000  Current batach :  9900  current cost: 1.807306051254272461  current acc: 0.49000
+
+==== Current Iter : 115  Average Results =====
+Avg Train Cost: 0.308100534677505478
+Avg Train Acc:  0.743680000066757163
+Avg Test Cost:  1.339349144697189242
+Avg Test Acc:   0.479899997115135202
+=================================
+Test Image Current iter: 116  learning rate: 0.001000  Current batach :  9900  current cost: 1.809304833412170410  current acc: 0.48000
+
+==== Current Iter : 116  Average Results =====
+Avg Train Cost: 0.305283115446567554
+Avg Train Acc:  0.745400000572204569
+Avg Test Cost:  1.364883195757865986
+Avg Test Acc:   0.481499996781349193
+=================================
+Test Image Current iter: 117  learning rate: 0.001000  Current batach :  9900  current cost: 1.818912148475646973  current acc: 0.49000
+
+==== Current Iter : 117  Average Results =====
+Avg Train Cost: 0.301271740913391095
+Avg Train Acc:  0.746440000534057568
+Avg Test Cost:  1.488489823341369700
+Avg Test Acc:   0.477199997901916528
+=================================
+Test Image Current iter: 118  learning rate: 0.001000  Current batach :  9900  current cost: 1.783522486686706543  current acc: 0.47000
+
+==== Current Iter : 118  Average Results =====
+Avg Train Cost: 0.304835553407669047
+Avg Train Acc:  0.746799999237060530
+Avg Test Cost:  1.367240695357322622
+Avg Test Acc:   0.479299996495246905
+=================================
+Test Image Current iter: 119  learning rate: 0.001000  Current batach :  9900  current cost: 2.131569623947143555  current acc: 0.44000
+
+==== Current Iter : 119  Average Results =====
+Avg Train Cost: 0.303448922634124763
+Avg Train Acc:  0.747360000371932953
+Avg Test Cost:  1.492736678123474103
+Avg Test Acc:   0.469999996423721311
+=================================
+Test Image Current iter: 120  learning rate: 0.001000  Current batach :  9900  current cost: 2.097836971282958984  current acc: 0.45000
+
+==== Current Iter : 120  Average Results =====
+Avg Train Cost: 0.303824917316436793
+Avg Train Acc:  0.746719999790191657
+Avg Test Cost:  1.533314578533172545
+Avg Test Acc:   0.470099997520446788
+=================================
+==== shuffling iter:  120  =======
+
+Test Image Current iter: 121  learning rate: 0.001000  Current batach :  9900  current cost: 1.861925482749938965  current acc: 0.46000
+
+==== Current Iter : 121  Average Results =====
+Avg Train Cost: 0.338346062064170838
+Avg Train Acc:  0.735600002765655514
+Avg Test Cost:  1.273307404518127406
+Avg Test Acc:   0.486099996566772441
+=================================
+Test Image Current iter: 122  learning rate: 0.001000  Current batach :  9900  current cost: 1.817240118980407715  current acc: 0.47000
+
+==== Current Iter : 122  Average Results =====
+Avg Train Cost: 0.313190898895263692
+Avg Train Acc:  0.742560000419616673
+Avg Test Cost:  1.251601974964141828
+Avg Test Acc:   0.478199997544288657
+=================================
+Test Image Current iter: 123  learning rate: 0.001000  Current batach :  9900  current cost: 1.974888801574707031  current acc: 0.49000
+
+==== Current Iter : 123  Average Results =====
+Avg Train Cost: 0.302339363873004918
+Avg Train Acc:  0.746280002117156949
+Avg Test Cost:  1.334724168181419479
+Avg Test Acc:   0.474799997508525862
+=================================
+Test Image Current iter: 124  learning rate: 0.001000  Current batach :  9900  current cost: 2.030998945236206055  current acc: 0.46000
+
+==== Current Iter : 124  Average Results =====
+Avg Train Cost: 0.298003948450088485
+Avg Train Acc:  0.747400000810623188
+Avg Test Cost:  1.387010330557823190
+Avg Test Acc:   0.484699997007846828
+=================================
+Test Image Current iter: 125  learning rate: 0.001000  Current batach :  9900  current cost: 2.267395973205566406  current acc: 0.47000
+
+==== Current Iter : 125  Average Results =====
+Avg Train Cost: 0.297215483486652388
+Avg Train Acc:  0.748160000324249230
+Avg Test Cost:  1.453396895527839572
+Avg Test Acc:   0.479399996399879458
+=================================
+Test Image Current iter: 126  learning rate: 0.001000  Current batach :  9900  current cost: 2.153173446655273438  current acc: 0.48000
+
+==== Current Iter : 126  Average Results =====
+Avg Train Cost: 0.297359478294849378
+Avg Train Acc:  0.748680000782012911
+Avg Test Cost:  1.480383688211440951
+Avg Test Acc:   0.481799995601177200
+=================================
+Test Image Current iter: 127  learning rate: 0.001000  Current batach :  9900  current cost: 2.162192821502685547  current acc: 0.50000
+
+==== Current Iter : 127  Average Results =====
+Avg Train Cost: 0.296294116735458357
+Avg Train Acc:  0.749040000200271616
+Avg Test Cost:  1.453905488252639877
+Avg Test Acc:   0.466399999260902420
+=================================
+Test Image Current iter: 128  learning rate: 0.001000  Current batach :  9900  current cost: 2.160209417343139648  current acc: 0.49000
+
+==== Current Iter : 128  Average Results =====
+Avg Train Cost: 0.300546853780746470
+Avg Train Acc:  0.748279999494552595
+Avg Test Cost:  1.536267191767692664
+Avg Test Acc:   0.478399996161460894
+=================================
+==== shuffling iter:  128  =======
+
+Test Image Current iter: 129  learning rate: 0.001000  Current batach :  9900  current cost: 1.766719102859497070  current acc: 0.49000
+
+==== Current Iter : 129  Average Results =====
+Avg Train Cost: 0.332755670249462121
+Avg Train Acc:  0.737200001955032325
+Avg Test Cost:  1.258394368886947667
+Avg Test Acc:   0.476299995481967942
+=================================
+Test Image Current iter: 130  learning rate: 0.001000  Current batach :  9900  current cost: 1.885883808135986328  current acc: 0.46000
+
+==== Current Iter : 130  Average Results =====
+Avg Train Cost: 0.309971213579177840
+Avg Train Acc:  0.744680000543594400
+Avg Test Cost:  1.373598664402961633
+Avg Test Acc:   0.487399994432926198
+=================================
+Test Image Current iter: 131  learning rate: 0.001000  Current batach :  9900  current cost: 2.550367832183837891  current acc: 0.48000
+
+==== Current Iter : 131  Average Results =====
+Avg Train Cost: 0.303397448182106011
+Avg Train Acc:  0.747400000572204570
+Avg Test Cost:  1.444433215856552044
+Avg Test Acc:   0.482799996435642254
+=================================
+Test Image Current iter: 132  learning rate: 0.001000  Current batach :  9900  current cost: 2.097992897033691406  current acc: 0.46000
+
+==== Current Iter : 132  Average Results =====
+Avg Train Cost: 0.296998133718967439
+Avg Train Acc:  0.749839998722076406
+Avg Test Cost:  1.427496638894081071
+Avg Test Acc:   0.488999996185302710
+=================================
+Test Image Current iter: 133  learning rate: 0.001000  Current batach :  9900  current cost: 2.215401649475097656  current acc: 0.42000
+
+==== Current Iter : 133  Average Results =====
+Avg Train Cost: 0.296499468505382557
+Avg Train Acc:  0.750799998521804790
+Avg Test Cost:  1.477403832077980095
+Avg Test Acc:   0.474599996209144614
+=================================
+Test Image Current iter: 134  learning rate: 0.001000  Current batach :  9900  current cost: 2.248557806015014648  current acc: 0.48000
+
+==== Current Iter : 134  Average Results =====
+Avg Train Cost: 0.300576448440551758
+Avg Train Acc:  0.749359997987747217
+Avg Test Cost:  1.420711647272109968
+Avg Test Acc:   0.479899995625019060
+=================================
+Test Image Current iter: 135  learning rate: 0.001000  Current batach :  9900  current cost: 2.322510004043579102  current acc: 0.48000
+
+==== Current Iter : 135  Average Results =====
+Avg Train Cost: 0.293664541244506860
+Avg Train Acc:  0.751599998474121067
+Avg Test Cost:  1.514528022408485386
+Avg Test Acc:   0.485999996662139888
+=================================
+Test Image Current iter: 136  learning rate: 0.001000  Current batach :  9900  current cost: 2.280275106430053711  current acc: 0.43000
+
+==== Current Iter : 136  Average Results =====
+Avg Train Cost: 0.294820528507232671
+Avg Train Acc:  0.751479999542236321
+Avg Test Cost:  1.563925714492797825
+Avg Test Acc:   0.475699997246265438
+=================================
+==== shuffling iter:  136  =======
+
+Test Image Current iter: 137  learning rate: 0.001000  Current batach :  9900  current cost: 1.759526729583740234  current acc: 0.47000
+
+==== Current Iter : 137  Average Results =====
+Avg Train Cost: 0.323521665692329430
+Avg Train Acc:  0.741320000410079949
+Avg Test Cost:  1.377340674996376135
+Avg Test Acc:   0.490099996328353882
+=================================
+Test Image Current iter: 138  learning rate: 0.001000  Current batach :  9900  current cost: 1.880184054374694824  current acc: 0.42000
+
+==== Current Iter : 138  Average Results =====
+Avg Train Cost: 0.307839262723922702
+Avg Train Acc:  0.746479999780654935
+Avg Test Cost:  1.356283686161041224
+Avg Test Acc:   0.479399999082088468
+=================================
+Test Image Current iter: 139  learning rate: 0.001000  Current batach :  9900  current cost: 1.787496089935302734  current acc: 0.47000
+
+==== Current Iter : 139  Average Results =====
+Avg Train Cost: 0.300521359503269192
+Avg Train Acc:  0.748639999866485550
+Avg Test Cost:  1.428926883339881826
+Avg Test Acc:   0.476199999451637268
+=================================
+Test Image Current iter: 140  learning rate: 0.001000  Current batach :  9900  current cost: 2.039239406585693359  current acc: 0.44000
+
+==== Current Iter : 140  Average Results =====
+Avg Train Cost: 0.298079240381717681
+Avg Train Acc:  0.749639999389648426
+Avg Test Cost:  1.325679004788398840
+Avg Test Acc:   0.477599998116493230
+=================================
+Test Image Current iter: 141  learning rate: 0.001000  Current batach :  9900  current cost: 2.041342735290527344  current acc: 0.47000
+
+==== Current Iter : 141  Average Results =====
+Avg Train Cost: 0.293444731414318094
+Avg Train Acc:  0.751199998855590856
+Avg Test Cost:  1.492616671323776290
+Avg Test Acc:   0.486899996697902682
+=================================
+Test Image Current iter: 142  learning rate: 0.001000  Current batach :  9900  current cost: 2.080926895141601562  current acc: 0.45000
+
+==== Current Iter : 142  Average Results =====
+Avg Train Cost: 0.293565621137619026
+Avg Train Acc:  0.751639999389648428
+Avg Test Cost:  1.475897883772850028
+Avg Test Acc:   0.480499997735023499
+=================================
+Test Image Current iter: 143  learning rate: 0.001000  Current batach :  9900  current cost: 2.213441848754882812  current acc: 0.45000
+
+==== Current Iter : 143  Average Results =====
+Avg Train Cost: 0.295669310748577108
+Avg Train Acc:  0.751199999332427981
+Avg Test Cost:  1.534715781807899582
+Avg Test Acc:   0.482299995422363292
+=================================
+Test Image Current iter: 144  learning rate: 0.001000  Current batach :  9900  current cost: 2.147824048995971680  current acc: 0.48000
+
+==== Current Iter : 144  Average Results =====
+Avg Train Cost: 0.295267831265926373
+Avg Train Acc:  0.751359999179840088
+Avg Test Cost:  1.454906211495399448
+Avg Test Acc:   0.479499997198581718
+=================================
+==== shuffling iter:  144  =======
+
+Test Image Current iter: 145  learning rate: 0.001000  Current batach :  9900  current cost: 2.178195476531982422  current acc: 0.43000
+
+==== Current Iter : 145  Average Results =====
+Avg Train Cost: 0.314018513441085834
+Avg Train Acc:  0.745119998693466234
+Avg Test Cost:  1.401093298196792514
+Avg Test Acc:   0.475699996650218948
+=================================
+Test Image Current iter: 146  learning rate: 0.001000  Current batach :  9900  current cost: 2.101109266281127930  current acc: 0.44000
+
+==== Current Iter : 146  Average Results =====
+Avg Train Cost: 0.304839335620403273
+Avg Train Acc:  0.749119998931884745
+Avg Test Cost:  1.357194170355796814
+Avg Test Acc:   0.476799997389316554
+=================================
+Test Image Current iter: 147  learning rate: 0.001000  Current batach :  9900  current cost: 2.017732143402099609  current acc: 0.43000
+
+==== Current Iter : 147  Average Results =====
+Avg Train Cost: 0.296009530365467066
+Avg Train Acc:  0.751559999942779555
+Avg Test Cost:  1.375227226018905569
+Avg Test Acc:   0.477399998903274558
+=================================
+Test Image Current iter: 148  learning rate: 0.001000  Current batach :  9900  current cost: 2.305837631225585938  current acc: 0.48000
+
+==== Current Iter : 148  Average Results =====
+Avg Train Cost: 0.294719567894935586
+Avg Train Acc:  0.752240000247955343
+Avg Test Cost:  1.494296297430992126
+Avg Test Acc:   0.482499996125698105
+=================================
+Test Image Current iter: 149  learning rate: 0.001000  Current batach :  9900  current cost: 2.182906389236450195  current acc: 0.43000
+
+==== Current Iter : 149  Average Results =====
+Avg Train Cost: 0.293146706938743618
+Avg Train Acc:  0.752760000228881787
+Avg Test Cost:  1.408001484870910591
+Avg Test Acc:   0.472499998807907107
+=================================
+Test Image Current iter: 150  learning rate: 0.001000  Current batach :  9900  current cost: 2.051446437835693359  current acc: 0.49000
+
+==== Current Iter : 150  Average Results =====
+Avg Train Cost: 0.292161191999912251
+Avg Train Acc:  0.753400000095367450
+Avg Test Cost:  1.422035674452781784
+Avg Test Acc:   0.483099997341632836
+=================================
+Test Image Current iter: 151  learning rate: 0.001000  Current batach :  9900  current cost: 2.040090560913085938  current acc: 0.48000
+
+==== Current Iter : 151  Average Results =====
+Avg Train Cost: 0.294787018716335281
+Avg Train Acc:  0.752479999542236322
+Avg Test Cost:  1.408329755663871863
+Avg Test Acc:   0.470399997234344502
+=================================
+Test Image Current iter: 152  learning rate: 0.001000  Current batach :  9900  current cost: 2.313822984695434570  current acc: 0.44000
+
+==== Current Iter : 152  Average Results =====
+Avg Train Cost: 0.290921588122844688
+Avg Train Acc:  0.754040000677108746
+Avg Test Cost:  1.568794390559196561
+Avg Test Acc:   0.486499997675418849
+=================================
+==== shuffling iter:  152  =======
+
+Test Image Current iter: 153  learning rate: 0.001000  Current batach :  9900  current cost: 1.845138549804687500  current acc: 0.50000
+
+==== Current Iter : 153  Average Results =====
+Avg Train Cost: 0.315172796070575689
+Avg Train Acc:  0.744480000734329184
+Avg Test Cost:  1.364503017067909330
+Avg Test Acc:   0.483899997472763077
+=================================
+Test Image Current iter: 154  learning rate: 0.001000  Current batach :  9900  current cost: 1.984333038330078125  current acc: 0.48000
+
+==== Current Iter : 154  Average Results =====
+Avg Train Cost: 0.300893281340599061
+Avg Train Acc:  0.749000000715255743
+Avg Test Cost:  1.386335958838462723
+Avg Test Acc:   0.484299997985362995
+=================================
+Test Image Current iter: 155  learning rate: 0.001000  Current batach :  9900  current cost: 2.108220577239990234  current acc: 0.46000
+
+==== Current Iter : 155  Average Results =====
+Avg Train Cost: 0.299981879353523273
+Avg Train Acc:  0.749760001420974764
+Avg Test Cost:  1.461807729005813572
+Avg Test Acc:   0.483099996447563185
+=================================
+Test Image Current iter: 156  learning rate: 0.001000  Current batach :  9900  current cost: 1.765311121940612793  current acc: 0.47000
+
+==== Current Iter : 156  Average Results =====
+Avg Train Cost: 0.294690097212791435
+Avg Train Acc:  0.751600002527236910
+Avg Test Cost:  1.411182442307472140
+Avg Test Acc:   0.468899995982646922
+=================================
+Test Image Current iter: 157  learning rate: 0.001000  Current batach :  9900  current cost: 2.162014961242675781  current acc: 0.46000
+
+==== Current Iter : 157  Average Results =====
+Avg Train Cost: 0.293914045810699465
+Avg Train Acc:  0.751880002260208125
+Avg Test Cost:  1.530753369927406293
+Avg Test Acc:   0.477699995636939989
+=================================
+Test Image Current iter: 158  learning rate: 0.001000  Current batach :  9900  current cost: 2.109259843826293945  current acc: 0.43000
+
+==== Current Iter : 158  Average Results =====
+Avg Train Cost: 0.293674185037612889
+Avg Train Acc:  0.752320002079010064
+Avg Test Cost:  1.450751263499259869
+Avg Test Acc:   0.479099997282028178
+=================================
+Test Image Current iter: 159  learning rate: 0.001000  Current batach :  9900  current cost: 2.067175626754760742  current acc: 0.47000
+
+==== Current Iter : 159  Average Results =====
+Avg Train Cost: 0.293564989149570466
+Avg Train Acc:  0.752120002269744847
+Avg Test Cost:  1.416479545831680342
+Avg Test Acc:   0.474999997019767750
+=================================
+Test Image Current iter: 160  learning rate: 0.001000  Current batach :  9900  current cost: 2.139839410781860352  current acc: 0.43000
+
+==== Current Iter : 160  Average Results =====
+Avg Train Cost: 0.294098235487937953
+Avg Train Acc:  0.752000002145767232
+Avg Test Cost:  1.566769897341728113
+Avg Test Acc:   0.475999994277954086
+=================================
+==== shuffling iter:  160  =======
+
+Test Image Current iter: 161  learning rate: 0.001000  Current batach :  9900  current cost: 2.064884185791015625  current acc: 0.46000
+
+==== Current Iter : 161  Average Results =====
+Avg Train Cost: 0.313677136063575723
+Avg Train Acc:  0.744880000114440888
+Avg Test Cost:  1.298384420871734557
+Avg Test Acc:   0.470499996840953838
+=================================
+Test Image Current iter: 162  learning rate: 0.001000  Current batach :  9900  current cost: 2.061167955398559570  current acc: 0.45000
+
+==== Current Iter : 162  Average Results =====
+Avg Train Cost: 0.301867241799831376
+Avg Train Acc:  0.748440000534057570
+Avg Test Cost:  1.305491756796836933
+Avg Test Acc:   0.481899996697902677
+=================================
+Test Image Current iter: 163  learning rate: 0.001000  Current batach :  9900  current cost: 2.036125659942626953  current acc: 0.47000
+
+==== Current Iter : 163  Average Results =====
+Avg Train Cost: 0.294898667395114888
+Avg Train Acc:  0.750960000753402745
+Avg Test Cost:  1.405168816447257996
+Avg Test Acc:   0.486299997568130471
+=================================
+Test Image Current iter: 164  learning rate: 0.001000  Current batach :  9900  current cost: 1.939109444618225098  current acc: 0.43000
+
+==== Current Iter : 164  Average Results =====
+Avg Train Cost: 0.293350307285785650
+Avg Train Acc:  0.752120001316070597
+Avg Test Cost:  1.363480104207992483
+Avg Test Acc:   0.482099997699260707
+=================================
+Test Image Current iter: 165  learning rate: 0.001000  Current batach :  9900  current cost: 2.130229949951171875  current acc: 0.48000
+
+==== Current Iter : 165  Average Results =====
+Avg Train Cost: 0.291946364283561688
+Avg Train Acc:  0.752480000734329191
+Avg Test Cost:  1.450583524703979554
+Avg Test Acc:   0.482199999690055836
+=================================
+Test Image Current iter: 166  learning rate: 0.001000  Current batach :  9900  current cost: 2.204324722290039062  current acc: 0.50000
+
+==== Current Iter : 166  Average Results =====
+Avg Train Cost: 0.290315614044666270
+Avg Train Acc:  0.752800001382827766
+Avg Test Cost:  1.562151243090629471
+Avg Test Acc:   0.488499996960163108
+=================================
+Test Image Current iter: 167  learning rate: 0.001000  Current batach :  9900  current cost: 2.138404607772827148  current acc: 0.43000
+
+==== Current Iter : 167  Average Results =====
+Avg Train Cost: 0.292055295705795304
+Avg Train Acc:  0.752640000820159916
+Avg Test Cost:  1.490060145258903512
+Avg Test Acc:   0.477599997520446795
+=================================
+Test Image Current iter: 168  learning rate: 0.001000  Current batach :  9900  current cost: 2.399914264678955078  current acc: 0.43000
+
+==== Current Iter : 168  Average Results =====
+Avg Train Cost: 0.294727649450302109
+Avg Train Acc:  0.751600001573562659
+Avg Test Cost:  1.535664906501770011
+Avg Test Acc:   0.466699996888637558
+=================================
+==== shuffling iter:  168  =======
+
+Test Image Current iter: 169  learning rate: 0.001000  Current batach :  9900  current cost: 2.194661617279052734  current acc: 0.44000
+
+==== Current Iter : 169  Average Results =====
+Avg Train Cost: 0.310824806332588188
+Avg Train Acc:  0.747320001125335698
+Avg Test Cost:  1.360188913345336870
+Avg Test Acc:   0.476999999582767509
+=================================
+Test Image Current iter: 170  learning rate: 0.001000  Current batach :  9900  current cost: 2.293462276458740234  current acc: 0.43000
+
+==== Current Iter : 170  Average Results =====
+Avg Train Cost: 0.296992872178554523
+Avg Train Acc:  0.753080000400543237
+Avg Test Cost:  1.455534099340438869
+Avg Test Acc:   0.478899995386600497
+=================================
+Test Image Current iter: 171  learning rate: 0.001000  Current batach :  9900  current cost: 2.139546155929565430  current acc: 0.47000
+
+==== Current Iter : 171  Average Results =====
+Avg Train Cost: 0.293574108421802538
+Avg Train Acc:  0.754440001010894812
+Avg Test Cost:  1.419267707467079198
+Avg Test Acc:   0.485599998831748980
+=================================
+Test Image Current iter: 172  learning rate: 0.001000  Current batach :  9900  current cost: 2.099289655685424805  current acc: 0.46000
+
+==== Current Iter : 172  Average Results =====
+Avg Train Cost: 0.287953410625457762
+Avg Train Acc:  0.756520001173019430
+Avg Test Cost:  1.440447282195091327
+Avg Test Acc:   0.483399998843669909
+=================================
+Test Image Current iter: 173  learning rate: 0.001000  Current batach :  9900  current cost: 2.137896537780761719  current acc: 0.44000
+
+==== Current Iter : 173  Average Results =====
+Avg Train Cost: 0.286739143431186672
+Avg Train Acc:  0.757240001440048216
+Avg Test Cost:  1.511089719533920350
+Avg Test Acc:   0.487499997317790978
+=================================
+Test Image Current iter: 174  learning rate: 0.001000  Current batach :  9900  current cost: 2.272715091705322266  current acc: 0.44000
+
+==== Current Iter : 174  Average Results =====
+Avg Train Cost: 0.288407549440860722
+Avg Train Acc:  0.756800001144409151
+Avg Test Cost:  1.473846410512924088
+Avg Test Acc:   0.481599997580051398
+=================================
+Test Image Current iter: 175  learning rate: 0.001000  Current batach :  9900  current cost: 1.991983652114868164  current acc: 0.45000
+
+==== Current Iter : 175  Average Results =====
+Avg Train Cost: 0.286393655836582162
+Avg Train Acc:  0.757760000944137535
+Avg Test Cost:  1.397162601351737976
+Avg Test Acc:   0.475599997937679264
+=================================
+Test Image Current iter: 176  learning rate: 0.001000  Current batach :  9900  current cost: 2.242994308471679688  current acc: 0.46000
+
+==== Current Iter : 176  Average Results =====
+Avg Train Cost: 0.285769016206264492
+Avg Train Acc:  0.758000001668930001
+Avg Test Cost:  1.589490394592285138
+Avg Test Acc:   0.490999998450279251
+=================================
+==== shuffling iter:  176  =======
+
+Test Image Current iter: 177  learning rate: 0.001000  Current batach :  9900  current cost: 1.763210892677307129  current acc: 0.45000
+
+==== Current Iter : 177  Average Results =====
+Avg Train Cost: 0.311752141892910006
+Avg Train Acc:  0.745959999799728379
+Avg Test Cost:  1.340382511019706735
+Avg Test Acc:   0.476099996566772488
+=================================
+Test Image Current iter: 178  learning rate: 0.001000  Current batach :  9900  current cost: 2.090144395828247070  current acc: 0.48000
+
+==== Current Iter : 178  Average Results =====
+Avg Train Cost: 0.298672852814197531
+Avg Train Acc:  0.751879999399185150
+Avg Test Cost:  1.468872724175453115
+Avg Test Acc:   0.484699995815753959
+=================================
+Test Image Current iter: 179  learning rate: 0.001000  Current batach :  9900  current cost: 2.282478332519531250  current acc: 0.46000
+
+==== Current Iter : 179  Average Results =====
+Avg Train Cost: 0.293659439802169797
+Avg Train Acc:  0.753279998540878348
+Avg Test Cost:  1.484118588566780028
+Avg Test Acc:   0.473899998366832720
+=================================
+Test Image Current iter: 180  learning rate: 0.001000  Current batach :  9900  current cost: 2.070768356323242188  current acc: 0.49000
+
+==== Current Iter : 180  Average Results =====
+Avg Train Cost: 0.290898442089557674
+Avg Train Acc:  0.754039999246597259
+Avg Test Cost:  1.479627875089645439
+Avg Test Acc:   0.482399995923042280
+=================================
+Test Image Current iter: 181  learning rate: 0.001000  Current batach :  9900  current cost: 2.316710472106933594  current acc: 0.46000
+
+==== Current Iter : 181  Average Results =====
+Avg Train Cost: 0.288765419363975540
+Avg Train Acc:  0.754679998397827179
+Avg Test Cost:  1.531143029332160843
+Avg Test Acc:   0.476299998760223386
+=================================
+Test Image Current iter: 182  learning rate: 0.001000  Current batach :  9900  current cost: 2.205408573150634766  current acc: 0.48000
+
+==== Current Iter : 182  Average Results =====
+Avg Train Cost: 0.290931238234043099
+Avg Train Acc:  0.754239998340606732
+Avg Test Cost:  1.524362945556640536
+Avg Test Acc:   0.471299996674060806
+=================================
+Test Image Current iter: 183  learning rate: 0.001000  Current batach :  9900  current cost: 1.988740682601928711  current acc: 0.48000
+
+==== Current Iter : 183  Average Results =====
+Avg Train Cost: 0.292966965675354019
+Avg Train Acc:  0.753879998207092283
+Avg Test Cost:  1.479351019263267508
+Avg Test Acc:   0.472199997603893307
+=================================
+Test Image Current iter: 184  learning rate: 0.001000  Current batach :  9900  current cost: 2.006382942199707031  current acc: 0.48000
+
+==== Current Iter : 184  Average Results =====
+Avg Train Cost: 0.290807595193386059
+Avg Train Acc:  0.754239998817443857
+Avg Test Cost:  1.475295450091361982
+Avg Test Acc:   0.466399996280670193
+=================================
+==== shuffling iter:  184  =======
+
+Test Image Current iter: 185  learning rate: 0.001000  Current batach :  9900  current cost: 1.956164121627807617  current acc: 0.44000
+
+==== Current Iter : 185  Average Results =====
+Avg Train Cost: 0.311473560333251964
+Avg Train Acc:  0.746520000219345059
+Avg Test Cost:  1.408058295845985519
+Avg Test Acc:   0.471299995779991154
+=================================
+Test Image Current iter: 186  learning rate: 0.001000  Current batach :  9900  current cost: 2.258156776428222656  current acc: 0.43000
+
+==== Current Iter : 186  Average Results =====
+Avg Train Cost: 0.297468742549419407
+Avg Train Acc:  0.751440000534057573
+Avg Test Cost:  1.473056341409683334
+Avg Test Acc:   0.483499997258186320
+=================================
+Test Image Current iter: 187  learning rate: 0.001000  Current batach :  9900  current cost: 2.181954860687255859  current acc: 0.48000
+
+==== Current Iter : 187  Average Results =====
+Avg Train Cost: 0.294273670136928567
+Avg Train Acc:  0.752600000619888299
+Avg Test Cost:  1.547306272387504622
+Avg Test Acc:   0.482199995517730740
+=================================
+Test Image Current iter: 188  learning rate: 0.001000  Current batach :  9900  current cost: 2.316940784454345703  current acc: 0.42000
+
+==== Current Iter : 188  Average Results =====
+Avg Train Cost: 0.292499814808368674
+Avg Train Acc:  0.753199999570846601
+Avg Test Cost:  1.468006969094276526
+Avg Test Acc:   0.481699996888637516
+=================================
+Test Image Current iter: 189  learning rate: 0.001000  Current batach :  9900  current cost: 1.864596128463745117  current acc: 0.45000
+
+==== Current Iter : 189  Average Results =====
+Avg Train Cost: 0.290352588117122667
+Avg Train Acc:  0.754239999532699601
+Avg Test Cost:  1.486596778035163879
+Avg Test Acc:   0.487999999225139591
+=================================
+Test Image Current iter: 190  learning rate: 0.001000  Current batach :  9900  current cost: 1.945767164230346680  current acc: 0.43000
+
+==== Current Iter : 190  Average Results =====
+Avg Train Cost: 0.288099270641803740
+Avg Train Acc:  0.755079999685287495
+Avg Test Cost:  1.400353484749794042
+Avg Test Acc:   0.486499998569488501
+=================================
+Test Image Current iter: 191  learning rate: 0.001000  Current batach :  9900  current cost: 2.432179450988769531  current acc: 0.44000
+
+==== Current Iter : 191  Average Results =====
+Avg Train Cost: 0.287968519449234017
+Avg Train Acc:  0.755079999923706002
+Avg Test Cost:  1.654008764028549239
+Avg Test Acc:   0.480299996435642251
+=================================
+Test Image Current iter: 192  learning rate: 0.001000  Current batach :  9900  current cost: 1.800353288650512695  current acc: 0.44000
+
+==== Current Iter : 192  Average Results =====
+Avg Train Cost: 0.291779344201087976
+Avg Train Acc:  0.753999999046325642
+Avg Test Cost:  1.465784780383110109
+Avg Test Acc:   0.482699996829032918
+=================================
+==== shuffling iter:  192  =======
+
+Test Image Current iter: 193  learning rate: 0.001000  Current batach :  9900  current cost: 1.901917934417724609  current acc: 0.46000
+
+==== Current Iter : 193  Average Results =====
+Avg Train Cost: 0.306249643981456765
+Avg Train Acc:  0.748840001583099379
+Avg Test Cost:  1.444933094382286010
+Avg Test Acc:   0.466899995505809795
+=================================
+Test Image Current iter: 194  learning rate: 0.001000  Current batach :  9900  current cost: 2.245207786560058594  current acc: 0.44000
+
+==== Current Iter : 194  Average Results =====
+Avg Train Cost: 0.295861151278018930
+Avg Train Acc:  0.752560000896453807
+Avg Test Cost:  1.495695671439170926
+Avg Test Acc:   0.483199995458126086
+=================================
+Test Image Current iter: 195  learning rate: 0.001000  Current batach :  9900  current cost: 2.094996690750122070  current acc: 0.45000
+
+==== Current Iter : 195  Average Results =====
+Avg Train Cost: 0.290552696585655190
+Avg Train Acc:  0.754560001134872427
+Avg Test Cost:  1.445151413679123031
+Avg Test Acc:   0.481099998950958230
+=================================
+Test Image Current iter: 196  learning rate: 0.001000  Current batach :  9900  current cost: 1.967523455619812012  current acc: 0.48000
+
+==== Current Iter : 196  Average Results =====
+Avg Train Cost: 0.287538261473178847
+Avg Train Acc:  0.755480000972747812
+Avg Test Cost:  1.508216122388839731
+Avg Test Acc:   0.485799996852874783
+=================================
+Test Image Current iter: 197  learning rate: 0.001000  Current batach :  9900  current cost: 2.010588407516479492  current acc: 0.47000
+
+==== Current Iter : 197  Average Results =====
+Avg Train Cost: 0.287989950060844435
+Avg Train Acc:  0.755400001525878939
+Avg Test Cost:  1.472776888012885976
+Avg Test Acc:   0.486799996495246912
+=================================
+Test Image Current iter: 198  learning rate: 0.001000  Current batach :  9900  current cost: 2.087778091430664062  current acc: 0.42000
+
+==== Current Iter : 198  Average Results =====
+Avg Train Cost: 0.288029013574123360
+Avg Train Acc:  0.755520001649856554
+Avg Test Cost:  1.575284640789031965
+Avg Test Acc:   0.470199997723102558
+=================================
+Test Image Current iter: 199  learning rate: 0.001000  Current batach :  9900  current cost: 1.969123840332031250  current acc: 0.50000
+
+==== Current Iter : 199  Average Results =====
+Avg Train Cost: 0.289878122806549066
+Avg Train Acc:  0.754920001745224001
+Avg Test Cost:  1.570723533630371094
+Avg Test Acc:   0.471599996089935303
+=================================

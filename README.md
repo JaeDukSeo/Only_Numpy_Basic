@@ -20,9 +20,6 @@ Implementing varity of Neural Network Algorithms only using Numpy Library, and m
 
 ## What's included?
 
-** I MOVE TO GITLAB : https://gitlab.com/jae.duk.seo/Only_Numpy
-
-
 * ANN Basic And Gate
 * ANN Basic Constant Learning Rate
 * ANN Basic Constant Step Decay
